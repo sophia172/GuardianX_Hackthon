@@ -9,3 +9,5 @@ elevenlabs # text to speech via ElevenLabs API
 groq # use groq for json formating
 pydantic #json formatting
 sounddevice # 
+scipy
+python-dotenv
