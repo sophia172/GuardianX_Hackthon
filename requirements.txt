@@ -1,0 +1,10 @@
+openai # interfacing with groq
+websockets # communication between client and server
+opencv-python # camera input
+requests # making HTTP requests to ipinfo.io
+aiohttp # making HTTP requests to ipinfo.io
+aiofiles # writing to files asynchronously
+instructor # Groq library
+elevenlabs # text to speech via ElevenLabs API
+groq # use groq for json formating
+pydantic #json formatting
